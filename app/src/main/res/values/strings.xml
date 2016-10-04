@@ -1,0 +1,10 @@
+<resources xmlns:xliff="http://schemas.android.com/apk/res-auto">
+    <string name="app_name">Bandung Flight</string>
+
+    <string name="format_flight_name"><xliff:g id="prefix">%1$s</xliff:g><xliff:g id="number">%2$s</xliff:g> - <xliff:g id="name">%3$s</xliff:g></string>
+    <string name="format_flight_route">Route : <xliff:g id="departure">%1$s</xliff:g> to <xliff:g id="arrival">%2$s</xliff:g></string>
+    <string name="format_flight_departure">Departure : <xliff:g id="departure_time">%1$s</xliff:g></string>
+
+    <string name="kesalahan_jaringan">Terjadi kesalahan dalam jaringan</string>
+    <string name="tidak_ada_koneksi">Tidak ada koneksi jaringan</string>
+</resources>
