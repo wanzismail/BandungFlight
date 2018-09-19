@@ -5,7 +5,7 @@ android {
     buildToolsVersion "23.0.2"
 
     defaultConfig {
-        applicationId "com.example.android.bandungflight"
+        applicationId "com.wanztudio.iak.bandungflight"
         minSdkVersion 10
         targetSdkVersion 23
         versionCode 1
